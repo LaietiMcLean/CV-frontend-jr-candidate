@@ -1,0 +1,267 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Laia",
+      "surnames": "Marco del Prado",
+      "title": "👍Enthusiastic, capable and skilled Front End Developer (Jr.) looking for my first job!",
+      "description": "After years of training in communication & marketing issues, I am currently working on my carrer change as Front end Developer. I'm passionate about professional challenges and I never give up my goals!",
+      "location": {
+        "notes": "Madrid, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/laiamarcodelprado/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/LaietiMcLean"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Mi first PC...",
+        "fact": "✅1996"
+      },
+      {
+        "topic": "First game I played on a computer 👩🏻‍💻",
+        "fact": "👷🏻‍♀️Lemmings!"
+      },
+      {
+        "topic": "Hobbies:",
+        "fact": "🕵🏻‍♀️Spy and detective stories, history research & genealogy."
+      }
+    ]
+  },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Front End Developer",
+        "startDate": "2021-10-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Upgrade Hub",
+          "description": "",
+          "URL": "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/48300598",
+          "image": {
+            "alt": "upgrde logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/8a19c65c-6fb0-471f-8b49-7915f2e452b2_upgrde-logo.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Audiovisual Communication Degree",
+        "startDate": "2008-09-01",
+        "finishDate": "2013-07-01",
+        "institution": {
+          "name": "Universidad Jaume I ",
+          "description": "",
+          "URL": "https://www.uji.es/estudis/oferta/base/graus/actual/audiovisual/?urlRedirect=https://www.uji.es/estudis/oferta/base/graus/actual/audiovisual/&url=/estudis/oferta/base/graus/actual/audiovisual/",
+          "image": {
+            "alt": "logo uji.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/23e69bdc-625f-4f9e-aa9d-ccfaca483f26_logo-uji.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Photoshop",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Premiere Pro",
+            "type": "technology"
+          },
+          {
+            "name": "Final Cut Pro",
+            "type": "technology"
+          },
+          {
+            "name": "MacOS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master's Degree in Marketing & Communication",
+        "startDate": "2013-09-01",
+        "finishDate": "2014-05-01",
+        "institution": {
+          "name": "Universidad de Santiago de Compostela e Instituto Universitario de Investigación Ortega y Gasset",
+          "description": "",
+          "URL": "https://www.usc.gal/en/studies/masters/social-and-legal-sciences/master-marketing-consultancy-and-political-communication",
+          "image": {
+            "alt": "usc.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b5ad2824-9500-4807-8d03-b742ede684b1_usc.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Premiere Pro",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe XD",
+            "type": "technology"
+          },
+          {
+            "name": "MailChimp",
+            "type": "technology"
+          },
+          {
+            "name": "SPSS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Web Design with HTML5, CSS3 & JavaScript",
+        "startDate": "2021-01-01",
+        "finishDate": "2021-07-01",
+        "institution": {
+          "name": "Universidad Nacional a Distancia ",
+          "description": "",
+          "image": {
+            "alt": "LogoUNED.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/6b0a80e5-9cd5-4a4a-935c-4866bb206cf1_logouned.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Bootcamp Front-End Developer",
+        "startDate": "2021-10-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Upgrade Hub",
+          "description": "",
+          "URL": "https://www.upgrade-hub.com/curso-desarrollador-disenador-frontend/",
+          "image": {
+            "alt": "upgrde logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/cc78906a-8ae1-4e60-8ef6-8d87368e9a8b_upgrde-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "jQuery",
+            "type": "technology"
+          },
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Scss",
+            "type": "technology"
+          },
+          {
+            "name": "Sass",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/laiamarcodelprado/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
